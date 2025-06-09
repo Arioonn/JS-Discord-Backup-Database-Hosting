@@ -27,7 +27,7 @@
 1. **Clone atau download** project ini.
 2. Install dependency:
    ```bash
-   npm instal```
+   npm instal
 
 ---
 
