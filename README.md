@@ -27,4 +27,10 @@
 1. **Clone atau download** project ini.
 2. Install dependency:
    ```bash
-   npm install
+   npm instal```
+
+---
+
+## Dilarang Keras Menghapus Credits
+## Managed by Arioonn
+## Executive Store
